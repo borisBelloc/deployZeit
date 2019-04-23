@@ -1,4 +1,5 @@
 {
-  "name": "merryxmas.now.sh",
-  "version": 2
+  "version": 2,
+  "name": "merryxmas",
+  "alias": "merryxmas.now.sh"
 }
